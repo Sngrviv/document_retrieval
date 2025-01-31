@@ -1,8 +1,5 @@
-# document_retrieval
-Document Retriever using LLM 
+ Check the main branch
 
-Check the main branch
-# Document Retrieval System
 
 A Django-based document retrieval system that uses LangChain, FAISS, and Groq for intelligent document processing and querying.
 
